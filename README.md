@@ -1,0 +1,2 @@
+# bigwalkwiki-privacy
+bigwalkwiki privacy
